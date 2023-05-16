@@ -7,7 +7,7 @@ export default function Header() {
     <div className='info'>
       <h5>Hello I'm</h5>
       <h1>Nkwo Brainie</h1>
-      <h5 className='text-light'>Software Engineer </h5>
+      <h5 className='text-light'>Software Engineer in fet </h5>
       <CTA />
       <div className='my_image'>
        <headerSocial />

@@ -23,7 +23,7 @@ const data = [
   },
   {
     avatar: AVTR2,
-    name: "Viola",
+    name: "Mom",
     review:
       "I was really glad and I am still happy for the work I asked Brainie to do for me. Even though she did it when she just started learning web development but it was really beautiful.",
   },

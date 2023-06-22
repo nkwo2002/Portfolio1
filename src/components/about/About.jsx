@@ -39,7 +39,7 @@ const About = () => {
             of Engineering and Technology and  aspiring to be a Full Stack developer. I have expertise in Web Programming, debugging and software testing,
             project reporting and presentation. 
             I have dealt with programming languages such as C, C++ and Java. And equally, I can confidently say
-            I have expertise in HTML, CSS and Javascript and this portfolio was created using the React library 
+            I have experience in HTML, CSS and Javascript and this portfolio was created using the React library 
             which utilises the JSX syntax. 
           </p>
           <a href="#contact" className="btn btn-primary">

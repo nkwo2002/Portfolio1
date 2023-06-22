@@ -30,15 +30,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>User Experience</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
@@ -67,7 +59,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>User Experience</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
@@ -97,7 +89,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>User Experience</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>

@@ -1,7 +1,7 @@
 import React from "react";
 import "./testimonial.css";
 import AVTR1 from "../../assets/Rodrigue.jpg";
-import AVTR2 from "../../assets/Mom.jpg";
+import AVTR2 from "../../assets/mom.jpg";
 import AVTR3 from "../../assets/Sharlynn.jpg";
 import AVTR4 from "../../assets/Joy.jpg";
 
@@ -23,7 +23,7 @@ const data = [
   },
   {
     avatar: AVTR2,
-    name: "Mom",
+    name: "mom",
     review:
       "I was really glad and I am still happy for the work I asked Brainie to do for me. Even though she did it when she just started learning web development but it was really beautiful.",
   },
